@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **AWS and Docker**
 
-- 👨‍💻 All of my projects are available at [https://sanjay-portfolio-web.onrender.com/](https://sanjay-portfolio-web.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://sanjay-portfolio-ten.vercel.app/](https://sanjay-portfolio-ten.vercel.app/)
 
 - 💬 Ask me about **DSA Javascript, MongoDB, Express, React, Node.js**
 
 - 📫 How to reach me **devsanjay7676@gmail.com**
 
-- 📄 Know about my experiences [https://sanjay-portfolio-web.onrender.com/](https://sanjay-portfolio-web.onrender.com/)
+- 📄 Know about my experiences [https://sanjay-portfolio-ten.vercel.app/](https://sanjay-portfolio-ten.vercel.app/)
 
 - ⚡ Fun fact **Greetings! I'm a mechanical engineer turned coder, embracing the world of computer science.**
 

@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA Javascript, MongoDB, Express, React, Node.js**
 
-- 📫 How to reach me **devsanjay7676@gmail.com**
+- 📫 How to reach me **codesanjay93@gmail.com**
 
 - 📄 Know about my experiences [https://sanjay-portfolio-ten.vercel.app/](https://sanjay-portfolio-ten.vercel.app/)
 

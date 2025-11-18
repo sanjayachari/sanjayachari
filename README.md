@@ -1,33 +1,69 @@
-<h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h1 align="center">Hi 👋 I'm Sanjay</h1>
+<h3 align="center">Senior Full-Stack Developer • Cloud & Automation Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjayachari&label=Profile%20views&color=0e75b6&style=flat" alt="sanjayachari" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjayachari" alt="sanjayachari" /></a> </p>
+### 👨‍💻 About Me  
+- 🚀 Senior Full-Stack Developer building **high-performance, scalable cloud applications**  
+- ⚙️ Expert in **system design, APIs, microservices, containerization & distributed systems**  
+- ☁️ Work extensively with **AWS, GCP, Docker, Linux servers, reverse proxies, load balancers**  
+- 🤖 Automation specialist — **n8n, custom schedulers, cronless pipelines, backend daemons**  
+- 🕸 Web Scraping & Automation expert — **Playwright, Puppeteer, Cheerio, browser clustering**  
+- 🧱 Backend engineering using **Node.js, Python, TypeScript, PostgreSQL, MongoDB**  
+- 🧬 Frontend engineering with **Next.js, React, Tailwind, performance-focused UI**  
+- 🔍 Strong focus on **architecture, code quality, infra reliability & cost-optimized deployments**  
+- 📦 Build and ship production systems using **Dockerized services, CI/CD, and cloud infra**  
+- ✉️ Email → **codesanjay93@gmail.com**
 
-- 🌱 I’m currently learning **AWS and Docker**
+---
 
-- 👨‍💻 All of my projects are available at [https://sanjay-portfolio-ten.vercel.app/](https://sanjay-portfolio-ten.vercel.app/)
-
-- 💬 Ask me about **DSA Javascript, MongoDB, Express, React, Node.js**
-
-- 📫 How to reach me **codesanjay93@gmail.com**
-
-- 📄 Know about my experiences [https://sanjay-portfolio-ten.vercel.app/](https://sanjay-portfolio-ten.vercel.app/)
-
-- ⚡ Fun fact **Greetings! I'm a mechanical engineer turned coder, embracing the world of computer science.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjayachari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjayachari/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sanju_93__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sanju_93__/" height="30" width="40" /></a>
+### 🤝 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/sanjayachari/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="https://www.instagram.com/sanju_93__/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjayachari&show_icons=true&locale=en&layout=compact" alt="sanjayachari" /></p>
+### 🧰 Tech Stack  
+#### **Frontend & UI**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,js,ts,tailwind,html,css" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjayachari&show_icons=true&locale=en" alt="sanjayachari" /></p>
+#### **Backend & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayachari&" alt="sanjayachari" /></p>
+#### **Automation & Web Scraping**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+- **Web Scraping:** Puppeteer, Playwright, Cheerio, custom browser automation  
+- **Workflow Automation:** n8n, cronless pipelines, backend micro-tasks  
+- **CI/CD & DevOps:** Docker builds, container orchestration, cloud deployments  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sanjayachari&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayachari&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=sanjayachari&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Fun Fact  
+Mechanical engineer → turned full-stack cloud engineer automating everything I can 😄

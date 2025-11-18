@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Sanjay</h1>
-<h3 align="center">Senior Full-Stack Developer • Cloud & Automation Engineer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 
 ---
 
